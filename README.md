@@ -35,6 +35,6 @@ Translation : it might take a bit longer so please be patient! (but sincerely th
 The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
 
 
-## License
+## License  
 
 [MIT](http://opensource.org/licenses/MIT)
